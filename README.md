@@ -1,4 +1,4 @@
-# blockchain-starter-kit
+# blockchain-starter-kit-2
 
 :warning: :construction: :construction_worker:
 
